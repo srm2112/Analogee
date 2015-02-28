@@ -1,0 +1,150 @@
+      <script src="js/jquery.shuffle.modernizr.min.js"></script>
+
+  <div class="container-alternate">
+        <div class="container">
+            <h3 id="repair" class="subhead">Repair</h3>
+            <!-- Shuffle starts here -->
+            <div class="content-area col-md-12">
+                <p style="text-align: center;">We clean, calibrate, and repair many popular makes and models of the following parts:</p>
+                <br>
+                <!-- Repair Filter Starts -->
+                <ul id="repair-filter" style="width: 100%" class="list-inline">
+                    <li>
+                        <a href="" class="repairlink active" data-group="manometer">
+                            Manometers
+                        </a>
+                    </li>
+                    <li>
+                        <a href="" class="repairlink" data-group="networks">
+                            Matching Networks
+                        </a>
+                    </li>
+                    <li>
+                        <a href="" class="repairlink" data-group="throttle">
+                            Throttle Valves
+                        </a>
+                    </li>
+                    <li>
+                        <a href="" class="repairlink" data-group="ac2">
+                            AC-2 and ACX
+                            </a>
+                    </li>
+                    <li>
+                        <a href="" class="repairlink" data-group="generators">
+                            RF Generators
+                        </a>
+                    </li>
+                    <li>
+                        <a href="" class="repairlink" data-group="isolation">
+                            Isolation Valves
+                        </a>
+                    </li>
+                    <li>
+                        <a href="" class="repairlink" data-group="circuit">
+                            Cybeq Elevators
+                        </a>
+                    </li>
+                </ul>
+                <!-- Repair Filter Ends -->
+                <!-- Repair Items Grid Starts -->
+                <ul id="repair-grid" class="row">
+                    <li class="repair-grid" data-groups='["networks"]'>
+                        AMAT
+                    </li>
+                    <li class="repair-grid" data-groups='["networks"]'>
+                       Daihen
+                    </li>
+                    <li class="repair-grid" data-groups='["networks"]'>
+                        Dressker/AE
+                    </li>
+                    <li class="repair-grid" data-groups='["networks"]'>
+                        ENI
+                    </li>
+                    <li class="repair-grid" data-groups='["networks"]'>
+                        RF Services
+                    </li>
+                    <li class="repair-grid" data-groups='["networks"]'>
+                    Tegal
+                </li>
+                    <li class="repair-grid" data-groups='["networks"]'>
+                    Trazar
+                </li>
+                    <li class="repair-grid" data-groups='["throttle"]'>
+                        MKS
+                    </li>
+                    <li class="repair-grid" data-groups='["throttle"]'>
+                        Millipore
+                    </li>
+                    <li class="repair-grid" data-groups='["throttle"]'>
+                        Tylan
+                    </li>
+                    <li class="repair-grid" data-groups='["throttle"]'>
+                        Vacuum General
+                    </li>
+                    <li class="repair-grid" data-groups='["isolation"]'>
+                        NORCAL
+                    </li>
+                    <li class="repair-grid" data-groups='["ac2"]'>
+                        Celerity
+                    </li>
+                    <li class="repair-grid" data-groups='["ac2"]'>
+                        Millipore
+                    </li>
+                    <li class="repair-grid" data-groups='["ac2"]'>
+                        Mykrolis
+                    </li>
+                    <li class="repair-grid" data-groups='["ac2"]'>
+                        Tylan
+                    </li>
+                    <li class="repair-grid" data-groups='["ac2"]'>
+                        Vacuum General
+                    </li>
+                    <li class="repair-grid" data-groups='["generators"]'>
+                        Advanced Energy
+                    </li>
+                    <li class="repair-grid" data-groups='["generators"]'>
+                        Comdel
+                    </li>
+                    <li class="repair-grid" data-groups='["generators"]'>
+                        ENI
+                    </li>
+                    <li class="repair-grid" data-groups='["generators"]'>
+                        Seren
+                    </li>
+                    <li class="repair-grid" data-groups='["isolation"]'>
+                        Tylan General
+                    </li>
+                    <li class="repair-grid" data-groups='["isolation"]'>
+                        MKS
+                    </li>
+                    <li class="repair-grid" data-groups='["manometer"]'>
+                        MKS
+                    </li>
+                    <li class="repair-grid" data-groups='["manometer"]'>
+                        Mykrolis
+                    </li>
+                    <li class="repair-grid" data-groups='["manometer"]'>
+                        Tylan
+                    </li>
+                    <li class="repair-grid" data-groups='["manometer"]'>
+                        Vacuum General
+                    </li>
+                    <li class="repair-grid" data-groups='["circuit"]'>
+                        Matrix
+                    </li>
+                    <li class="repair-grid" data-groups='["circuit"]'>
+                        AutoEtch
+                    </li>
+                    <li class="repair-grid" data-groups='["circuit"]'>
+                        Cybeq
+                    </li>
+
+                </ul>
+                <!-- Repair Items Grid Ends -->
+            </div>
+            <!-- Shuffle Ends -->        </div>
+        <br>
+        <br>
+        <!-- /.container -->
+    </div>
+    <!-- /.container-alternate -->
