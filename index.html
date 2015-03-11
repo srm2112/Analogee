@@ -130,7 +130,7 @@
     <h3 id="upgrades" class="subhead top10 padtop15">Upgrades</h3>
 
     <div class="container container-alternate">
-        <div id="tour" class="carousel slide">
+        <div id="tour" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="item active">
                     <div align="center">
@@ -473,6 +473,10 @@
         var href = link.attr("href");
         $("html,body").animate({scrollTop: $(href).offset().top - 80}, 500);
         link.closest(".navbar").find(".navbar-toggle:not(.collapsed)").click();
+    });
+
+    $('.carousel').carousel({
+        interval: 8000
     });
 </script>
 </body>
