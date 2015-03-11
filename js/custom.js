@@ -1,4 +1,4 @@
-(function($) {
+(function ($) {
 
 
 
@@ -22,7 +22,7 @@
     });
 
 
-    $(document).ready(function() {
+    $(document).ready(function () {
         $('#repair-filter li a.active').click();
     });
 })(jQuery);

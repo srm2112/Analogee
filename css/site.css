@@ -70,10 +70,11 @@
     max-width: none !important;
 }
 
-.center_div{
+.center_div {
     margin: 0 auto;
-    width:30%;
+    width: 30%;
 }
+
 .top5 {
     margin-top: 5px;
 }
@@ -136,6 +137,7 @@
 .carousel-caption {
     color: #000;
 }
+
 /*.active {
     border-bottom: solid #193290 4px;
 }*/
@@ -172,9 +174,11 @@ a.repairlink:hover {
 .container {
     max-width: 1050px;
 }
+
 .carousel-control.right {
     background-image: none;
 }
+
 .carousel-control.left {
     background-image: none;
 }

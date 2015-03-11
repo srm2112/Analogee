@@ -17,6 +17,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .container-alternate {
     background: #f0f0f0;
 }
+
 .navbar {
     background: #fff;
     padding: 0.3em 0;
@@ -112,14 +113,13 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .gradient {
     background: #f4f9f9; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #f4f9f9 0%, #2989d8 50%, #f9fbfc 50%); /* FF3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#f4f9f9), color-stop(50%,#2989d8), color-stop(50%,#f9fbfc)); /* Chrome,Safari4+ */
-    background: -webkit-radial-gradient(center, ellipse cover,  #f4f9f9 0%,#2989d8 50%,#f9fbfc 50%); /* Chrome10+,Safari5.1+ */
-    background: -o-radial-gradient(center, ellipse cover,  #f4f9f9 0%,#2989d8 50%,#f9fbfc 50%); /* Opera 12+ */
-    background: -ms-radial-gradient(center, ellipse cover,  #f4f9f9 0%,#2989d8 50%,#f9fbfc 50%); /* IE10+ */
-    background: radial-gradient(ellipse at center,  #f4f9f9 20%,#193290 50%,#f9fbfc 30%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f9f9', endColorstr='#f9fbfc',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+    background: -moz-radial-gradient(center, ellipse cover, #f4f9f9 0%, #2989d8 50%, #f9fbfc 50%); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f4f9f9), color-stop(50%, #2989d8), color-stop(50%, #f9fbfc)); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover, #f4f9f9 0%, #2989d8 50%, #f9fbfc 50%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover, #f4f9f9 0%, #2989d8 50%, #f9fbfc 50%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover, #f4f9f9 0%, #2989d8 50%, #f9fbfc 50%); /* IE10+ */
+    background: radial-gradient(ellipse at center, #f4f9f9 20%, #193290 50%, #f9fbfc 30%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f4f9f9', endColorstr='#f9fbfc', GradientType=1); /* IE6-9 fallback on horizontal gradient */
 
 }
 
