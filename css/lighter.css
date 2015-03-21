@@ -79,7 +79,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .subhead {
     font-size: 2em;
     text-align: center;
-    margin: 2em 0 0.5em;
+/*    margin: 2em 0 0.5em; */
 }
 
 .benefits {
@@ -132,7 +132,23 @@ body, h1, h2, h3, h4, h5, h6 {
     width: 100%;
 }
 
+.solutions {
+    margin-bottom: 3em;
+}
+
+.upgrades {
+    margin-bottom: 3em;
+}
+
+.repairs {
+    margin-bottom: 3em;
+}
+
 .faqs {
+    margin-bottom: 3em;
+}
+
+.about {
     margin-bottom: 3em;
 }
 

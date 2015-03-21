@@ -1,4 +1,6 @@
-(function ($) {
+
+/*
+function ($) {
 
 
 
@@ -9,7 +11,7 @@
         speed: 500 // Transition/animation speed (milliseconds)
     });
 
-    /* reshuffle when user clicks a filter item */
+    // reshuffle when user clicks a filter item //
     $('#repair-filter li a').click(function (e) {
         e.preventDefault();
         // set active class
@@ -26,3 +28,4 @@
         $('#repair-filter li a.active').click();
     });
 })(jQuery);
+*/
